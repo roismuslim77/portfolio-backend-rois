@@ -70,7 +70,7 @@
       
 
 ### **PT Kedaisayur Indonesia**
-**Position:** Backend Developer  
+**Position:** IT Developer  
 **Period:** 2019-2021
 
 #### **Main Projects:**
@@ -103,7 +103,6 @@
 **Responsibilities and Achievements:**
 - Identified and resolved technical issues in the production environment.
 - Collaborated with the frontend and QA teams for optimal solutions.
-- Improved backend performance to support application scalability and high transaction loads.
 - Prepared technical documentation and reports on fixes.
 
 ---
