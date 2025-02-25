@@ -24,8 +24,8 @@
     - **Contributions:**
         - Performed **bug fixing** and **code refactoring** for several services from **NestJS to Golang**, including **notifications, emails, and encryption services**.
     - **Technical Stack:**
-      - Programming Languages: Golang, JavaScript, TypeScript
-      - Frameworks & Technologies: NestJS, ExpressJS, Gin
+      - Programming Languages: Golang, JavaScript, TypeScript, PHP
+      - Frameworks & Technologies: NestJS, ExpressJS, Gin, Laravel
       - Databases: PostgresSQL, MongoDB, Redis, ElasticSearch
       - Tools & Practices: Git, REST API, Docker, Slack, AWS S3, RabbitMQ, Kong, Postmans
       
